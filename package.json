@@ -2,10 +2,10 @@
   "name": "profpepite-telegram-bot",
   "version": "0.0.1",
   "description": "a minimalist Telegram bot using grammy dependencie",
-  "main": "bot.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "grammy": "^1.11.2",
