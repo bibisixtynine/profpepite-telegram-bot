@@ -1,5 +1,5 @@
 {
-  "name": "bibil69-telegram-bot",
+  "name": "profpepite-telegram-bot",
   "version": "0.0.1",
   "description": "a minimalist Telegram bot using telegraf dependencie",
   "main": "bot.js",
