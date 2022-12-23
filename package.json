@@ -1,0 +1,29 @@
+{
+  "name": "bibil69-telegram-bot",
+  "version": "0.0.1",
+  "description": "a minimalist Telegram bot using telegraf dependencie",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "grammy": "^1.11.2",
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": "^16.14.2"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/bibil69-telegram-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "telegram",
+    "grammy",
+    "bot",
+    "chatbot"
+  ]
+}
