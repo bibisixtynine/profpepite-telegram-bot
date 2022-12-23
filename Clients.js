@@ -73,7 +73,7 @@ export class Clients {
       } else if (message == '/test') {
         this.bot.api.sendMessage(process.env.TELEGRAM_LOG_ACCOUNT_USER_ID,`💫😍🚀 ${ctx.update.message.from.first_name}, id<${ctx.update.message.from.id}>, vient de démarrer un </test>`)
         await ctx.reply('🚀')
-        await ctx.reply(`C'est parti pour un nouveau test d'1mn ${this.first_name} !` )
+        await ctx.reply(`C'est parti pour un new test d'1mn ${this.first_name} !` )
         await ctx.reply(` le score est augmenté de 100 pour une bonne réponse` )
         await ctx.reply(` le score est diminué de 100 si la réponse n'est pas la bonne` )
 
