@@ -1,7 +1,7 @@
 {
   "name": "profpepite-telegram-bot",
   "version": "0.0.1",
-  "description": "a minimalist Telegram bot using telegraf dependencie",
+  "description": "a minimalist Telegram bot using grammy dependencie",
   "main": "bot.js",
   "type": "module",
   "scripts": {
