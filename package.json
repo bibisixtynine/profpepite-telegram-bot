@@ -8,8 +8,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "grammy": "^1.11.2",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "grammy": "^1.11.2"
   },
   "engines": {
     "node": "^16.14.2"
